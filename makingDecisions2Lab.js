@@ -7,7 +7,8 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-testing github
+let firstItem = arr.shift()
+console.log(firstItem)
 
 ////////// PROBLEM 2 //////////
 /*
@@ -15,6 +16,7 @@ testing github
 */
 
 //Code Here
+
 
 ////////// PROBLEM 3 //////////
 
